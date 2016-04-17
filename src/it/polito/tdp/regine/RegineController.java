@@ -4,8 +4,6 @@ import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
 
-import com.sun.prism.paint.Paint;
-
 import it.polito.tdp.regine.model.CalcolaRegine;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
